@@ -148,19 +148,15 @@
 📍 **[ 분석 결과 요약 ]**
 > ![강력범죄 분석 결과](https://github.com/user-attachments/assets/0994ccf4-efd5-4518-b4dc-fbfa2d18a8e6)
 
-</details>
-
-<details close>
-<summary>특이점 연도의 원인 분석</summary>
-  
-💥 **강력범 유형별 중 성관련 범죄(강간, 강제추행) 급증**<br>
-&nbsp;&nbsp;&nbsp;⇒ 전체적인 강력 범죄 증가
-
-💥 **사회 인식의 변화로 인해 성범죄 증가**
-
-💥 **근거 뉴스**<br>
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/98f008d1-13b1-4ae6-b47b-3e3d0858fd71" height="200" width="300"/><br>
-&nbsp;&nbsp;&nbsp;⇒ [10년간 성범죄 급증…‘사회인식 변화’ 반영](https://news.kbs.co.kr/news/pc/view/view.do?ncd=5323516)
+📍 **[ after 특이점 연도의 원인 분석 ]**
+>  💥 **강력범 유형별 중 성관련 범죄(강간, 강제추행) 급증**<br>
+>  &nbsp;&nbsp;&nbsp;⇒ 전체적인 강력 범죄 증가
+>
+>  💥 **사회 인식의 변화로 인해 성범죄 증가**
+>
+>  💥 **근거 뉴스**<br>
+>  &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/98f008d1-13b1-4ae6-b47b-3e3d0858fd71" height="200" width="300"/><br>
+>  &nbsp;&nbsp;&nbsp;⇒ [10년간 성범죄 급증…‘사회인식 변화’ 반영](https://www.mk.co.kr/news/all/2038564)
 
 </details>
 
@@ -199,19 +195,66 @@
 📍 **[ 분석 결과 요약 ]**
 > ![절도범죄 분석 결과](https://github.com/user-attachments/assets/07ed0410-8260-43d1-864f-f651c7a7ab0e)
 
+📍 **[ before 특이점 연도의 원인 분석 ]**
+>  💥 **IMF로 인한 경제 수준 급감(실업률 등)**<br>
+>  &nbsp;&nbsp;&nbsp;⇒ 생계형 절도 범죄 급증
+>
+>  💥 **근거 뉴스**<br>
+>  &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/332082cf-2e3f-4408-a519-1dfb52fc6d30" height="200" width="300"/><br>
+>  &nbsp;&nbsp;&nbsp;⇒ [IMF형 장기화로 생계형 범죄 극성](https://www.mk.co.kr/news/all/2038564)
+>
+> 💥 **근거 데이터**<br>
+> &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/e4226e2a-c7da-4ee6-b079-349bd0b701ae" height="200" width="300"/>
+
 </details>
 
 <details close>
-<summary>특이점 연도의 원인 분석</summary>
-  
-💥 **IMF로 인한 경제 수준 급감(실업률 등)**<br>
-&nbsp;&nbsp;&nbsp;⇒ 생계형 절도 범죄 급증
+<summary>after</summary>
+<table>
+  <tr>
+    <th>연도별 절도범죄 종류에 따른 발생 건수</th>
+    <th>지역별 발생한 절도범죄 발생 건수</th>
+    <th>장소별 발생한 절도범죄 발생 건수</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/45824b1e-fc02-460a-9788-e78e4002b292" height="150" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4b9ed304-b467-4820-8f8d-71223fa2b62b" height="150" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/455fffa1-5371-4897-8ce1-669edbd6777a" height="150" width="400"/></td>
+  </tr>
+</table>
+  <table>
+  <tr>
+    <th>요일별 절도범죄 종류에 따른 <br/>발생 건수</th>
+    <th>시간별 발생한 절도범죄 <br/>발생 건수</th>
+    <th>범행 연령별 발생한 절도범죄 <br/>발생 건수</th>
+    <th>범행 동기별 발생한 절도범죄 <br/>발생 건수</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/49ceef83-5368-4270-84a2-3480e3703c66" height="150" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0ec4dce2-6300-4c05-9bf6-c8a6b341d2a5" height="150" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ffe82d6e-7927-489b-aa2e-4e2811f97bb1" height="150" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/41b7517d-d47e-4614-ba70-448485f254a5" height="150" width="300"/></td>
+  </tr>
+</table>
 
-💥 **근거 뉴스**<br>
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/332082cf-2e3f-4408-a519-1dfb52fc6d30" height="200" width="300"/><br>
-&nbsp;&nbsp;&nbsp;⇒ [IMF형 장기화로 생계형 범죄 극성](https://www.mk.co.kr/news/all/2038564)
+<br>
+
+📍 **[ 분석 결과 요약 ]**
+> ![절도범죄 분석 결과](https://github.com/user-attachments/assets/0fb77f56-b4bc-41ca-8d77-f0e6d82dfe49)
+
+📍 **[ after 특이점 연도의 원인 분석 ]**
+>  💥 **절도 범죄 발생 수가 꾸준히 증가하다가 2015년부터 줄어든다**<br>
+>  &nbsp;&nbsp;&nbsp;⇒ CCTV, 블랙박스 범죄 예방용 카메라 작용
+>
+>  💥 **범죄 트랜드 변화 발생(피싱)**
+> 
+>  💥 **근거 뉴스**<br>
+>  &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/096a6633-f89a-49d9-b924-e3e1dfff30f1" height="200" width="300"/><br>
+>  &nbsp;&nbsp;&nbsp;⇒ [서울 '공공감시CCTV' 14만여대... 2년새 두 배 급증 '세계 최상위권'](https://www.hani.co.kr/arti/economy/it/1093078.html)
 
 </details>
+
+
 
 ## 결론
 
